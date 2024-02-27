@@ -117,3 +117,10 @@ I have no work experience
 # English language
 
 English was taught at school and is taught at the university.
+
+# My projects
+
+- [Valentine-card](https://github.com/Rubick1337/Valentine-card)
+- [Gallery](https://github.com/Rubick1337/Gallery)
+- [VideoPlayer](https://github.com/Rubick1337/VideoPlayer)
+- Gallery
